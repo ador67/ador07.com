@@ -1198,6 +1198,10 @@ input.contact_input{
   .contact_inputs {
     grid-template-columns: repeat(2, 1fr);
   }
+  .coustom {
+    position: relative;
+    top: 7rem;
+  }
 }
 
 /* For large devices */
@@ -1240,5 +1244,9 @@ input.contact_input{
   }
   .contact_inputs{
     grid-template-columns: repeat(2, 1fr);
+  }
+  .coustom{
+    background: red;
+    padding: 50px;
   }
 }
