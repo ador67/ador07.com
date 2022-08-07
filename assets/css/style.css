@@ -1246,7 +1246,7 @@ input.contact_input{
     grid-template-columns: repeat(2, 1fr);
   }
   .coustom{
-    background: red;
+    background: #007aff;
     padding: 50px;
   }
 }
